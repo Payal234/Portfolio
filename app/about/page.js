@@ -78,7 +78,7 @@ export default function About() {
           transition={{ delay: 0.4, duration: 1 }}
           className="text-lg md:text-xl text-gray-700 mb-16 text-center max-w-3xl mx-auto"
         >
-          I'm Payal, a dedicated web developer with a passion for creating
+          I&apos;m Payal, a dedicated web developer with a passion for creating
           modern and responsive web applications. I specialize in transforming
           ideas into seamless, user-friendly digital experiences. My focus is on
           delivering high-quality, efficient, and visually appealing solutions
