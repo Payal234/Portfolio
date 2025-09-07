@@ -82,9 +82,9 @@ export default function Hero() {
 
       <section
         id="home"
-        className="bg-[#f8f9fa] text-gray-900 min-h-screen flex items-center justify-center overflow-hidden px-4 -mt-12 "
+        className="bg-[#f8f9fa] text-gray-900 min-h-screen flex items-center justify-center overflow-hidden px-4  "
       >
-        <div className="flex flex-col md:flex-row items-center justify-center w-full max-w-6xl lg:-mt-12 gap-6 md:gap-10">
+        <div className="flex flex-col md:flex-row items-center justify-center w-full max-w-6xl lg:-mt-50 gap-6 md:gap-10">
           {/* Information Section */}
           <div className="w-full md:w-1/2 flex flex-col gap-3 md:gap-4 text-center md:text-left">
             <h1
