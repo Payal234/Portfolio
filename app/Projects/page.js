@@ -77,7 +77,7 @@ export default function Projects() {
   return (
     <section
       id="projects"
-      className="py-20 bg-gradient-to-b from-gray-50 to-gray-100 px-6"
+      className="py-20 bg-gradient-to-b from-gray-50 to-gray-100 px-6 -mt-10"
     >
       <motion.h2
         initial={{ opacity: 0, y: -40 }}

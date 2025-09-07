@@ -6,14 +6,14 @@ export default function Contact() {
   return (
     <section
       id="contact"
-      className="min-h-screen flex items-center justify-center px-6 bg-gradient-to-b from-gray-50 to-gray-100"
+      className="min-h-screen flex items-center justify-center px-6 bg-gradient-to-b from-gray-50 to-gray-100 -mt-10"
     >
-      <div className="w-full max-w-xl backdrop-blur-sm bg-white/70 border border-gray-200 rounded-2xl shadow-xl p-10">
+      <div className="w-full max-w-xl lg:-mt-12 backdrop-blur-sm bg-white/70 border border-gray-200 rounded-2xl shadow-xl p-10">
         <motion.h2
           initial={{ opacity: 0, y: -20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
-          className="text-4xl font-bold mb-12 text-indigo-700 text-center"
+          className="text-4xl font-bold mb-12 text-indigo-700 text-center "
         >
           Contact
         </motion.h2>
