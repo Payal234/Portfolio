@@ -60,7 +60,7 @@ export default function About() {
   };
 
   return (
-    <section id="about" className="py-17 bg-gradient-to-b from-gray-50 to-gray-100 px-4 sm:px-6 lg:px-8 ">
+    <section id="about" className="py-17 bg-gradient-to-b from-gray-50 to-gray-100 px-4 sm:px-6 lg:px-8 -mt-10">
       <div className="max-w-6xl  mx-auto">
         {/* About Me */}
         <motion.h2
