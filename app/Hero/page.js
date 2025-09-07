@@ -33,7 +33,7 @@ export default function Hero() {
       const contentTimer = setTimeout(() => setShowContent(true), 300);
       return () => clearTimeout(contentTimer);
     }
-  }, [visibleWords]);
+  }, [visibleWords, heading.length]);
 
   // Animate Resume button
   useEffect(() => {
